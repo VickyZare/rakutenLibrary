@@ -13,3 +13,4 @@ In GithubRepositoriesProvider.java there is one more mothod we have to parse the
 
 In ExampleUnitTest.java, i have writed the test cases which tests the json parsing function with a mock object. 
 
+Inside the build folder, we also have the AAR files which can be directly used as dependencies with other projects.
